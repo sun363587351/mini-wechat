@@ -1,0 +1,3 @@
+[submodule "WeDemo"]
+	path = WeDemo
+	url = https://github.com/Tencent/WeDemo.git

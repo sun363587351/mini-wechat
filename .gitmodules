@@ -1,3 +1,6 @@
 [submodule "WeDemo"]
 	path = WeDemo
 	url = https://github.com/Tencent/WeDemo.git
+[submodule "WxJava"]
+	path = WxJava
+	url = https://github.com/Wechat-Group/WxJava.git
